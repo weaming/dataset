@@ -1,0 +1,280 @@
+Culture .NET,English,Native,Two letter,Three letter,Three letter language name,LCID,IETF language tag
+"",Invariant Language (Invariant Country),Invariant Language (Invariant Country),iv,IVL,IVL,127,
+af,Afrikaans,Afrikaans,af,afr,AFK,54,af
+af-ZA,Afrikaans (South Africa),Afrikaans (Suid Afrika),af,afr,AFK,1078,af-ZA
+am-ET,Amharic (Ethiopia),አማርኛ (ኢትዮጵያ),am,amh,AMH,1118,am-ET
+ar,Arabic,العربية,ar,ara,ARA,1,ar
+ar-AE,Arabic (U.A.E.),العربية (الإمارات العربية المتحدة),ar,ara,ARU,14337,ar-AE
+ar-BH,Arabic (Bahrain),العربية (البحرين),ar,ara,ARH,15361,ar-BH
+ar-DZ,Arabic (Algeria),العربية (الجزائر),ar,ara,ARG,5121,ar-DZ
+ar-EG,Arabic (Egypt),العربية (مصر),ar,ara,ARE,3073,ar-EG
+ar-IQ,Arabic (Iraq),العربية (العراق),ar,ara,ARI,2049,ar-IQ
+ar-JO,Arabic (Jordan),العربية (الأردن),ar,ara,ARJ,11265,ar-JO
+ar-KW,Arabic (Kuwait),العربية (الكويت),ar,ara,ARK,13313,ar-KW
+ar-LB,Arabic (Lebanon),العربية (لبنان),ar,ara,ARB,12289,ar-LB
+ar-LY,Arabic (Libya),العربية (ليبيا),ar,ara,ARL,4097,ar-LY
+ar-MA,Arabic (Morocco),العربية (المملكة المغربية),ar,ara,ARM,6145,ar-MA
+ar-OM,Arabic (Oman),العربية (عمان),ar,ara,ARO,8193,ar-OM
+ar-QA,Arabic (Qatar),العربية (قطر),ar,ara,ARQ,16385,ar-QA
+ar-SA,Arabic (Saudi Arabia),العربية (المملكة العربية السعودية),ar,ara,ARA,1025,ar-SA
+ar-SY,Arabic (Syria),العربية (سوريا),ar,ara,ARS,10241,ar-SY
+ar-TN,Arabic (Tunisia),العربية (تونس),ar,ara,ART,7169,ar-TN
+ar-YE,Arabic (Yemen),العربية (اليمن),ar,ara,ARY,9217,ar-YE
+arn-CL,Mapudungun (Chile),Mapudungun (Chile),arn,arn,MPD,1146,arn-CL
+as-IN,Assamese (India),অসমীয়া (ভাৰত),as,asm,ASM,1101,as-IN
+az,Azeri,Azərbaycan­ılı,az,aze,AZE,44,az
+az-Cyrl-AZ,Azeri (Cyrillic) (Azerbaijan),Азәрбајҹан (Азәрбајҹан),az,aze,AZE,2092,az-Cyrl-AZ
+az-Latn-AZ,Azeri (Latin) (Azerbaijan),Azərbaycan­ılı (Azərbaycanca),az,aze,AZE,1068,az-Latn-AZ
+ba-RU,Bashkir (Russia),Башҡорт (Россия),ba,bak,BAS,1133,ba-RU
+be,Belarusian,Беларускі,be,bel,BEL,35,be
+be-BY,Belarusian (Belarus),Беларускі (Беларусь),be,bel,BEL,1059,be-BY
+bg,Bulgarian,български,bg,bul,BGR,2,bg
+bg-BG,Bulgarian (Bulgaria),български (България),bg,bul,BGR,1026,bg-BG
+bn-BD,Bengali (Bangladesh),বাংলা (বাংলাদেশ),bn,bng,BNB,2117,bn-BD
+bn-IN,Bengali (India),বাংলা (ভারত),bn,bng,BNG,1093,bn-IN
+bo-CN,Tibetan (People's Republic of China),བོད་ཡིག (ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།),bo,bod,BOB,1105,bo-CN
+br-FR,Breton (France),brezhoneg (Frañs),br,bre,BRE,1150,br-FR
+bs-Cyrl-BA,Bosnian (Cyrillic) (Bosnia and Herzegovina),босански (Босна и Херцеговина),bs,bsc,BSC,8218,bs-Cyrl-BA
+bs-Latn-BA,Bosnian (Latin) (Bosnia and Herzegovina),bosanski (Bosna i Hercegovina),bs,bsb,BSB,5146,bs-Latn-BA
+ca,Catalan,català,ca,cat,CAT,3,ca
+ca-ES,Catalan (Catalan),català (català),ca,cat,CAT,1027,ca-ES
+co-FR,Corsican (France),Corsu (France),co,cos,COS,1155,co-FR
+cs,Czech,čeština,cs,ces,CSY,5,cs
+cs-CZ,Czech (Czech Republic),čeština (Česká republika),cs,ces,CSY,1029,cs-CZ
+cy-GB,Welsh (United Kingdom),Cymraeg (y Deyrnas Unedig),cy,cym,CYM,1106,cy-GB
+da,Danish,dansk,da,dan,DAN,6,da
+da-DK,Danish (Denmark),dansk (Danmark),da,dan,DAN,1030,da-DK
+de,German,Deutsch,de,deu,DEU,7,de
+de-AT,German (Austria),Deutsch (Österreich),de,deu,DEA,3079,de-AT
+de-CH,German (Switzerland),Deutsch (Schweiz),de,deu,DES,2055,de-CH
+de-DE,German (Germany),Deutsch (Deutschland),de,deu,DEU,1031,de-DE
+de-LI,German (Liechtenstein),Deutsch (Liechtenstein),de,deu,DEC,5127,de-LI
+de-LU,German (Luxembourg),Deutsch (Luxemburg),de,deu,DEL,4103,de-LU
+dsb-DE,Lower Sorbian (Germany),dolnoserbšćina (Nimska),dsb,dsb,DSB,2094,dsb-DE
+dv,Divehi,ދިވެހިބަސް,dv,div,DIV,101,dv
+dv-MV,Divehi (Maldives),ދިވެހިބަސް (ދިވެހި ރާއްޖެ),dv,div,DIV,1125,dv-MV
+el,Greek,ελληνικά,el,ell,ELL,8,el
+el-GR,Greek (Greece),ελληνικά (Ελλάδα),el,ell,ELL,1032,el-GR
+en,English,English,en,eng,ENU,9,en
+en-029,English (Caribbean),English (Caribbean),en,eng,ENB,9225,en-029
+en-AU,English (Australia),English (Australia),en,eng,ENA,3081,en-AU
+en-BZ,English (Belize),English (Belize),en,eng,ENL,10249,en-BZ
+en-CA,English (Canada),English (Canada),en,eng,ENC,4105,en-CA
+en-GB,English (United Kingdom),English (United Kingdom),en,eng,ENG,2057,en-GB
+en-IE,English (Ireland),English (Eire),en,eng,ENI,6153,en-IE
+en-IN,English (India),English (India),en,eng,ENN,16393,en-IN
+en-JM,English (Jamaica),English (Jamaica),en,eng,ENJ,8201,en-JM
+en-MY,English (Malaysia),English (Malaysia),en,eng,ENM,17417,en-MY
+en-NZ,English (New Zealand),English (New Zealand),en,eng,ENZ,5129,en-NZ
+en-PH,English (Republic of the Philippines),English (Philippines),en,eng,ENP,13321,en-PH
+en-SG,English (Singapore),English (Singapore),en,eng,ENE,18441,en-SG
+en-TT,English (Trinidad and Tobago),English (Trinidad y Tobago),en,eng,ENT,11273,en-TT
+en-US,English (United States),English (United States),en,eng,ENU,1033,en-US
+en-ZA,English (South Africa),English (South Africa),en,eng,ENS,7177,en-ZA
+en-ZW,English (Zimbabwe),English (Zimbabwe),en,eng,ENW,12297,en-ZW
+es,Spanish,español,es,spa,ESP,10,es
+es-AR,Spanish (Argentina),Español (Argentina),es,spa,ESS,11274,es-AR
+es-BO,Spanish (Bolivia),Español (Bolivia),es,spa,ESB,16394,es-BO
+es-CL,Spanish (Chile),Español (Chile),es,spa,ESL,13322,es-CL
+es-CO,Spanish (Colombia),Español (Colombia),es,spa,ESO,9226,es-CO
+es-CR,Spanish (Costa Rica),Español (Costa Rica),es,spa,ESC,5130,es-CR
+es-DO,Spanish (Dominican Republic),Español (República Dominicana),es,spa,ESD,7178,es-DO
+es-EC,Spanish (Ecuador),Español (Ecuador),es,spa,ESF,12298,es-EC
+es-ES,Spanish (Spain),español (España),es,spa,ESN,3082,es-ES
+es-GT,Spanish (Guatemala),Español (Guatemala),es,spa,ESG,4106,es-GT
+es-HN,Spanish (Honduras),Español (Honduras),es,spa,ESH,18442,es-HN
+es-MX,Spanish (Mexico),Español (México),es,spa,ESM,2058,es-MX
+es-NI,Spanish (Nicaragua),Español (Nicaragua),es,spa,ESI,19466,es-NI
+es-PA,Spanish (Panama),Español (Panamá),es,spa,ESA,6154,es-PA
+es-PE,Spanish (Peru),Español (Perú),es,spa,ESR,10250,es-PE
+es-PR,Spanish (Puerto Rico),Español (Puerto Rico),es,spa,ESU,20490,es-PR
+es-PY,Spanish (Paraguay),Español (Paraguay),es,spa,ESZ,15370,es-PY
+es-SV,Spanish (El Salvador),Español (El Salvador),es,spa,ESE,17418,es-SV
+es-US,Spanish (United States),Español (Estados Unidos),es,spa,EST,21514,es-US
+es-UY,Spanish (Uruguay),Español (Uruguay),es,spa,ESY,14346,es-UY
+es-VE,Spanish (Venezuela),Español (Republica Bolivariana de Venezuela),es,spa,ESV,8202,es-VE
+et,Estonian,eesti,et,est,ETI,37,et
+et-EE,Estonian (Estonia),eesti (Eesti),et,est,ETI,1061,et-EE
+eu,Basque,euskara,eu,eus,EUQ,45,eu
+eu-ES,Basque (Basque),euskara (euskara),eu,eus,EUQ,1069,eu-ES
+fa,Persian,فارسى,fa,fas,FAR,41,fa
+fa-IR,Persian (Iran),فارسى (ايران),fa,fas,FAR,1065,fa-IR
+fi,Finnish,suomi,fi,fin,FIN,11,fi
+fi-FI,Finnish (Finland),suomi (Suomi),fi,fin,FIN,1035,fi-FI
+fil-PH,Filipino (Philippines),Filipino (Pilipinas),fil,fil,FPO,1124,fil-PH
+fo,Faroese,føroyskt,fo,fao,FOS,56,fo
+fo-FO,Faroese (Faroe Islands),føroyskt (Føroyar),fo,fao,FOS,1080,fo-FO
+fr,French,français,fr,fra,FRA,12,fr
+fr-BE,French (Belgium),français (Belgique),fr,fra,FRB,2060,fr-BE
+fr-CA,French (Canada),français (Canada),fr,fra,FRC,3084,fr-CA
+fr-CH,French (Switzerland),français (Suisse),fr,fra,FRS,4108,fr-CH
+fr-FR,French (France),français (France),fr,fra,FRA,1036,fr-FR
+fr-LU,French (Luxembourg),français (Luxembourg),fr,fra,FRL,5132,fr-LU
+fr-MC,French (Principality of Monaco),français (Principauté de Monaco),fr,fra,FRM,6156,fr-MC
+fy-NL,Frisian (Netherlands),Frysk (Nederlân),fy,fry,FYN,1122,fy-NL
+ga-IE,Irish (Ireland),Gaeilge (Éire),ga,gle,IRE,2108,ga-IE
+gd-GB,Scottish Gaelic (United Kingdom),Gàidhlig (An Rìoghachd Aonaichte),gd,gla,GLA,1169,gd-GB
+gl,Galician,galego,gl,glg,GLC,86,gl
+gl-ES,Galician (Galician),galego (galego),gl,glg,GLC,1110,gl-ES
+gsw-FR,Alsatian (France),Elsässisch (Frànkrisch),gsw,gsw,GSW,1156,gsw-FR
+gu,Gujarati,ગુજરાતી,gu,guj,GUJ,71,gu
+gu-IN,Gujarati (India),ગુજરાતી (ભારત),gu,guj,GUJ,1095,gu-IN
+ha-Latn-NG,Hausa (Latin) (Nigeria),Hausa (Nigeria),ha,hau,HAU,1128,ha-Latn-NG
+he,Hebrew,עברית,he,heb,HEB,13,he
+he-IL,Hebrew (Israel),עברית (ישראל),he,heb,HEB,1037,he-IL
+hi,Hindi,हिंदी,hi,hin,HIN,57,hi
+hi-IN,Hindi (India),हिंदी (भारत),hi,hin,HIN,1081,hi-IN
+hr,Croatian,hrvatski,hr,hrv,HRV,26,hr
+hr-BA,Croatian (Latin) (Bosnia and Herzegovina),hrvatski (Bosna i Hercegovina),hr,hrb,HRB,4122,hr-BA
+hr-HR,Croatian (Croatia),hrvatski (Hrvatska),hr,hrv,HRV,1050,hr-HR
+hsb-DE,Upper Sorbian (Germany),hornjoserbšćina (Němska),hsb,hsb,HSB,1070,hsb-DE
+hu,Hungarian,magyar,hu,hun,HUN,14,hu
+hu-HU,Hungarian (Hungary),magyar (Magyarország),hu,hun,HUN,1038,hu-HU
+hy,Armenian,Հայերեն,hy,hye,HYE,43,hy
+hy-AM,Armenian (Armenia),Հայերեն (Հայաստան),hy,hye,HYE,1067,hy-AM
+id,Indonesian,Bahasa Indonesia,id,ind,IND,33,id
+id-ID,Indonesian (Indonesia),Bahasa Indonesia (Indonesia),id,ind,IND,1057,id-ID
+ig-NG,Igbo (Nigeria),Igbo (Nigeria),ig,ibo,IBO,1136,ig-NG
+ii-CN,Yi (People's Republic of China),ꆈꌠꁱꂷ (ꍏꉸꏓꂱꇭꉼꇩ),ii,iii,III,1144,ii-CN
+is,Icelandic,íslenska,is,isl,ISL,15,is
+is-IS,Icelandic (Iceland),íslenska (Ísland),is,isl,ISL,1039,is-IS
+it,Italian,italiano,it,ita,ITA,16,it
+it-CH,Italian (Switzerland),italiano (Svizzera),it,ita,ITS,2064,it-CH
+it-IT,Italian (Italy),italiano (Italia),it,ita,ITA,1040,it-IT
+iu-Cans-CA,Inuktitut (Syllabics) (Canada),ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕ),iu,iku,IUS,1117,iu-Cans-CA
+iu-Latn-CA,Inuktitut (Latin) (Canada),Inuktitut (kanata),iu,iku,IUK,2141,iu-Latn-CA
+ja,Japanese,日本語,ja,jpn,JPN,17,ja
+ja-JP,Japanese (Japan),日本語 (日本),ja,jpn,JPN,1041,ja-JP
+ka,Georgian,ქართული,ka,kat,KAT,55,ka
+ka-GE,Georgian (Georgia),ქართული (საქართველო),ka,kat,KAT,1079,ka-GE
+kk,Kazakh,Қазащb,kk,kaz,KKZ,63,kk
+kk-KZ,Kazakh (Kazakhstan),Қазақ (Қазақстан),kk,kaz,KKZ,1087,kk-KZ
+kl-GL,Greenlandic (Greenland),kalaallisut (Kalaallit Nunaat),kl,kal,KAL,1135,kl-GL
+km-KH,Khmer (Cambodia),ខ្មែរ (កម្ពុជា),km,khm,KHM,1107,km-KH
+kn,Kannada,ಕನ್ನಡ,kn,kan,KDI,75,kn
+kn-IN,Kannada (India),ಕನ್ನಡ (ಭಾರತ),kn,kan,KDI,1099,kn-IN
+ko,Korean,한국어,ko,kor,KOR,18,ko
+ko-KR,Korean (Korea),한국어 (대한민국),ko,kor,KOR,1042,ko-KR
+kok,Konkani,कोंकणी,kok,kok,KNK,87,kok
+kok-IN,Konkani (India),कोंकणी (भारत),kok,kok,KNK,1111,kok-IN
+ky,Kyrgyz,Кыргыз,ky,kir,KYR,64,ky
+ky-KG,Kyrgyz (Kyrgyzstan),Кыргыз (Кыргызстан),ky,kir,KYR,1088,ky-KG
+lb-LU,Luxembourgish (Luxembourg),Lëtzebuergesch (Luxembourg),lb,ltz,LBX,1134,lb-LU
+lo-LA,Lao (Lao P.D.R.),ລາວ (ສ.ປ.ປ. ລາວ),lo,lao,LAO,1108,lo-LA
+lt,Lithuanian,lietuvių,lt,lit,LTH,39,lt
+lt-LT,Lithuanian (Lithuania),lietuvių (Lietuva),lt,lit,LTH,1063,lt-LT
+lv,Latvian,latviešu,lv,lav,LVI,38,lv
+lv-LV,Latvian (Latvia),latviešu (Latvija),lv,lav,LVI,1062,lv-LV
+mi-NZ,Maori (New Zealand),Reo Māori (Aotearoa),mi,mri,MRI,1153,mi-NZ
+mk,Macedonian,македонски јазик,mk,mkd,MKI,47,mk
+mk-MK,Macedonian (Former Yugoslav Republic of Macedonia),македонски јазик (Македонија),mk,mkd,MKI,1071,mk-MK
+ml-IN,Malayalam (India),മലയാളം (ഭാരതം),ml,mym,MYM,1100,ml-IN
+mn,Mongolian,Монгол хэл,mn,mon,MON,80,mn
+mn-MN,Mongolian (Cyrillic) (Mongolia),Монгол хэл (Монгол улс),mn,mon,MON,1104,mn-MN
+mn-Mong-CN,Mongolian (Traditional Mongolian) (People's Republic of China),ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ (ᠪᠦᠭᠦᠳᠡ ᠨᠠᠢᠷᠠᠮᠳᠠᠬᠤ ᠳᠤᠮᠳᠠᠳᠤ ᠠᠷᠠᠳ ᠣᠯᠣᠰ),mn,mon,MNG,2128,mn-Mong-CN
+moh-CA,Mohawk (Canada),Kanien'kéha (Canada),moh,moh,MWK,1148,moh-CA
+mr,Marathi,मराठी,mr,mar,MAR,78,mr
+mr-IN,Marathi (India),मराठी (भारत),mr,mar,MAR,1102,mr-IN
+ms,Malay,Bahasa Malaysia,ms,msa,MSL,62,ms
+ms-BN,Malay (Brunei Darussalam),Bahasa Malaysia (Brunei Darussalam),ms,msa,MSB,2110,ms-BN
+ms-MY,Malay (Malaysia),Bahasa Malaysia (Malaysia),ms,msa,MSL,1086,ms-MY
+mt-MT,Maltese (Malta),Malti (Malta),mt,mlt,MLT,1082,mt-MT
+nb-NO,Norwegian, Bokmål (Norway),norsk, bokmål (Norge),nb,nob,NOR,1044,nb-NO
+ne-NP,Nepali (Nepal),नेपाली (नेपाल),ne,nep,NEP,1121,ne-NP
+nl,Dutch,Nederlands,nl,nld,NLD,19,nl
+nl-BE,Dutch (Belgium),Nederlands (België),nl,nld,NLB,2067,nl-BE
+nl-NL,Dutch (Netherlands),Nederlands (Nederland),nl,nld,NLD,1043,nl-NL
+nn-NO,Norwegian, Nynorsk (Norway),norsk, nynorsk (Noreg),nn,nno,NON,2068,nn-NO
+no,Norwegian,norsk,no,nor,NOR,20,no
+nso-ZA,Sesotho sa Leboa (South Africa),Sesotho sa Leboa (Afrika Borwa),nso,nso,NSO,1132,nso-ZA
+oc-FR,Occitan (France),Occitan (França),oc,oci,OCI,1154,oc-FR
+or-IN,Oriya (India),ଓଡ଼ିଆ (ଭାରତ),or,ori,ORI,1096,or-IN
+pa,Punjabi,ਪੰਜਾਬੀ,pa,pan,PAN,70,pa
+pa-IN,Punjabi (India),ਪੰਜਾਬੀ (ਭਾਰਤ),pa,pan,PAN,1094,pa-IN
+pl,Polish,polski,pl,pol,PLK,21,pl
+pl-PL,Polish (Poland),polski (Polska),pl,pol,PLK,1045,pl-PL
+prs-AF,Dari (Afghanistan),درى (افغانستان),prs,prs,PRS,1164,prs-AF
+ps-AF,Pashto (Afghanistan),پښتو (افغانستان),ps,pus,PAS,1123,ps-AF
+pt,Portuguese,Português,pt,por,PTB,22,pt
+pt-BR,Portuguese (Brazil),Português (Brasil),pt,por,PTB,1046,pt-BR
+pt-PT,Portuguese (Portugal),português (Portugal),pt,por,PTG,2070,pt-PT
+qut-GT,K'iche (Guatemala),K'iche (Guatemala),qut,qut,QUT,1158,qut-GT
+quz-BO,Quechua (Bolivia),runasimi (Bolivia Suyu),quz,qub,QUB,1131,quz-BO
+quz-EC,Quechua (Ecuador),runasimi (Ecuador Suyu),quz,que,QUE,2155,quz-EC
+quz-PE,Quechua (Peru),runasimi (Peru Suyu),quz,qup,QUP,3179,quz-PE
+rm-CH,Romansh (Switzerland),Rumantsch (Svizra),rm,roh,RMC,1047,rm-CH
+ro,Romanian,română,ro,ron,ROM,24,ro
+ro-RO,Romanian (Romania),română (România),ro,ron,ROM,1048,ro-RO
+ru,Russian,русский,ru,rus,RUS,25,ru
+ru-RU,Russian (Russia),русский (Россия),ru,rus,RUS,1049,ru-RU
+rw-RW,Kinyarwanda (Rwanda),Kinyarwanda (Rwanda),rw,kin,KIN,1159,rw-RW
+sa,Sanskrit,संस्कृत,sa,san,SAN,79,sa
+sa-IN,Sanskrit (India),संस्कृत (भारतम्),sa,san,SAN,1103,sa-IN
+sah-RU,Yakut (Russia),саха (Россия),sah,sah,SAH,1157,sah-RU
+se-FI,Sami (Northern) (Finland),davvisámegiella (Suopma),se,smg,SMG,3131,se-FI
+se-NO,Sami (Northern) (Norway),davvisámegiella (Norga),se,sme,SME,1083,se-NO
+se-SE,Sami (Northern) (Sweden),davvisámegiella (Ruoŧŧa),se,smf,SMF,2107,se-SE
+si-LK,Sinhala (Sri Lanka),සිංහ (ශ්‍රී ලංකා),si,sin,SIN,1115,si-LK
+sk,Slovak,slovenčina,sk,slk,SKY,27,sk
+sk-SK,Slovak (Slovakia),slovenčina (Slovenská republika),sk,slk,SKY,1051,sk-SK
+sl,Slovenian,slovenski,sl,slv,SLV,36,sl
+sl-SI,Slovenian (Slovenia),slovenski (Slovenija),sl,slv,SLV,1060,sl-SI
+sma-NO,Sami (Southern) (Norway),åarjelsaemiengiele (Nöörje),sma,sma,SMA,6203,sma-NO
+sma-SE,Sami (Southern) (Sweden),åarjelsaemiengiele (Sveerje),sma,smb,SMB,7227,sma-SE
+smj-NO,Sami (Lule) (Norway),julevusámegiella (Vuodna),smj,smj,SMJ,4155,smj-NO
+smj-SE,Sami (Lule) (Sweden),julevusámegiella (Svierik),smj,smk,SMK,5179,smj-SE
+smn-FI,Sami (Inari) (Finland),sämikielâ (Suomâ),smn,smn,SMN,9275,smn-FI
+sms-FI,Sami (Skolt) (Finland),sääm´ǩiõll (Lää´ddjânnam),sms,sms,SMS,8251,sms-FI
+sq,Albanian,shqipe,sq,sqi,SQI,28,sq
+sq-AL,Albanian (Albania),shqipe (Shqipëria),sq,sqi,SQI,1052,sq-AL
+sr,Serbian,srpski,sr,srp,SRB,31770,sr
+sr-Cyrl-BA,Serbian (Cyrillic) (Bosnia and Herzegovina),српски (Босна и Херцеговина),sr,srn,SRN,7194,sr-Cyrl-BA
+sr-Cyrl-CS,Serbian (Cyrillic) (Serbia and Montenegro (Former)),српски (Србија и Црна Гора (Претходно)),sr,srp,SRB,3098,sr-Cyrl-CS
+sr-Cyrl-ME,Serbian (Cyrillic) (Montenegro),српски (Црна Гора),sr,srp,SRQ,12314,sr-Cyrl-ME
+sr-Cyrl-RS,Serbian (Cyrillic) (Serbia),српски (Србија),sr,srp,SRO,10266,sr-Cyrl-RS
+sr-Latn-BA,Serbian (Latin) (Bosnia and Herzegovina),srpski (Bosna i Hercegovina),sr,srs,SRS,6170,sr-Latn-BA
+sr-Latn-CS,Serbian (Latin) (Serbia and Montenegro (Former)),srpski (Srbija i Crna Gora (Prethodno)),sr,srp,SRL,2074,sr-Latn-CS
+sr-Latn-ME,Serbian (Latin) (Montenegro),srpski (Crna Gora),sr,srp,SRP,11290,sr-Latn-ME
+sr-Latn-RS,Serbian (Latin) (Serbia),srpski (Srbija),sr,srp,SRM,9242,sr-Latn-RS
+sv,Swedish,svenska,sv,swe,SVE,29,sv
+sv-FI,Swedish (Finland),svenska (Finland),sv,swe,SVF,2077,sv-FI
+sv-SE,Swedish (Sweden),svenska (Sverige),sv,swe,SVE,1053,sv-SE
+sw,Kiswahili,Kiswahili,sw,swa,SWK,65,sw
+sw-KE,Kiswahili (Kenya),Kiswahili (Kenya),sw,swa,SWK,1089,sw-KE
+syr,Syriac,ܣܘܪܝܝܐ,syr,syr,SYR,90,syr
+syr-SY,Syriac (Syria),ܣܘܪܝܝܐ (سوريا),syr,syr,SYR,1114,syr-SY
+ta,Tamil,தமிழ்,ta,tam,TAM,73,ta
+ta-IN,Tamil (India),தமிழ் (இந்தியா),ta,tam,TAM,1097,ta-IN
+te,Telugu,తెలుగు,te,tel,TEL,74,te
+te-IN,Telugu (India),తెలుగు (భారత దేశం),te,tel,TEL,1098,te-IN
+tg-Cyrl-TJ,Tajik (Cyrillic) (Tajikistan),Тоҷикӣ (Тоҷикистон),tg,tgk,TAJ,1064,tg-Cyrl-TJ
+th,Thai,ไทย,th,tha,THA,30,th
+th-TH,Thai (Thailand),ไทย (ไทย),th,tha,THA,1054,th-TH
+tk-TM,Turkmen (Turkmenistan),türkmençe (Türkmenistan),tk,tuk,TUK,1090,tk-TM
+tn-ZA,Setswana (South Africa),Setswana (Aforika Borwa),tn,tsn,TSN,1074,tn-ZA
+tr,Turkish,Türkçe,tr,tur,TRK,31,tr
+tr-TR,Turkish (Turkey),Türkçe (Türkiye),tr,tur,TRK,1055,tr-TR
+tt,Tatar,Татар,tt,tat,TTT,68,tt
+tt-RU,Tatar (Russia),Татар (Россия),tt,tat,TTT,1092,tt-RU
+tzm-Latn-DZ,Tamazight (Latin) (Algeria),Tamazight (Djazaïr),tzm,tzm,TZM,2143,tzm-Latn-DZ
+ug-CN,Uyghur (People's Republic of China),ئۇيغۇرچە (جۇڭخۇا خەلق جۇمھۇرىيىتى),ug,uig,UIG,1152,ug-CN
+uk,Ukrainian,україньска,uk,ukr,UKR,34,uk
+uk-UA,Ukrainian (Ukraine),україньска (Україна),uk,ukr,UKR,1058,uk-UA
+ur,Urdu,اُردو,ur,urd,URD,32,ur
+ur-PK,Urdu (Islamic Republic of Pakistan),اُردو (پاکستان),ur,urd,URD,1056,ur-PK
+uz,Uzbek,U'zbek,uz,uzb,UZB,67,uz
+uz-Cyrl-UZ,Uzbek (Cyrillic) (Uzbekistan),Ўзбек (Ўзбекистон),uz,uzb,UZB,2115,uz-Cyrl-UZ
+uz-Latn-UZ,Uzbek (Latin) (Uzbekistan),U'zbek (U'zbekiston Respublikasi),uz,uzb,UZB,1091,uz-Latn-UZ
+vi,Vietnamese,Tiếng Việt,vi,vie,VIT,42,vi
+vi-VN,Vietnamese (Vietnam),Tiếng Việt (Việt Nam),vi,vie,VIT,1066,vi-VN
+wo-SN,Wolof (Senegal),Wolof (Sénégal),wo,wol,WOL,1160,wo-SN
+xh-ZA,isiXhosa (South Africa),isiXhosa (uMzantsi Afrika),xh,xho,XHO,1076,xh-ZA
+yo-NG,Yoruba (Nigeria),Yoruba (Nigeria),yo,yor,YOR,1130,yo-NG
+zh-CHS,Chinese (Simplified),中文(简体),zh,zho,CHS,4,zh-Hans
+zh-CHT,Chinese (Traditional),中文(繁體),zh,zho,CHT,31748,zh-Hant
+zh-CN,Chinese (People's Republic of China),中文(中华人民共和国),zh,zho,CHS,2052,zh-CN
+zh-HK,Chinese (Hong Kong S.A.R.),中文(香港特别行政區),zh,zho,ZHH,3076,zh-HK
+zh-MO,Chinese (Macao S.A.R.),中文(澳門特别行政區),zh,zho,ZHM,5124,zh-MO
+zh-SG,Chinese (Singapore),中文(新加坡),zh,zho,ZHI,4100,zh-SG
+zh-TW,Chinese (Taiwan),中文(台灣),zh,zho,CHT,1028,zh-TW
+zu-ZA,isiZulu (South Africa),isiZulu (iNingizimu Afrika),zu,zul,ZUL,1077,zu-ZA
