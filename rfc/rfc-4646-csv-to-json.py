@@ -27,6 +27,11 @@ default_langs = {
     'ns': '北部梭托语',
     'syr': '古叙利亚语',
 }
+default_countries = {
+    'SP': '塞尔维亚',
+    'CB': '加勒比地区',
+}
+
 seen = set()
 print('lang,langChinese,country/region')
 for _, row in df.iterrows():
@@ -40,7 +45,7 @@ for _, row in df.iterrows():
         if country == '001':
             continue
         if not pd.isna(country):
-            cty = code_country.get(country, country)
+            cty = code_country.get(country, default_countries.get(country, country))
             print(
                 '{},{},{}'.format(
                     code,
